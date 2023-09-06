@@ -39,7 +39,7 @@ function Default()
     <div className='text-bg-dark p-3 component container'>
 
                 <div className="logocontainer">
-                    <img className="indexlogo" class="img-fluid" src="images/SCP_Logo_4.png" alt="SCP Foundation Logo"/>
+                    <img className="indexlogo" class="img-fluid" src="/images/SCP_Logo_4.png" alt="SCP Foundation Logo"/>
                 </div>
 
       <div class="maintext">

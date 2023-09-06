@@ -8,7 +8,7 @@ function Truck({truck})
 
         <div className='text-bg-dark p-3 component container'>
             <div className="logocontainer">
-                <img className="indexlogo" class="img-fluid" src="images/SCP_Logo_4.png" alt="SCP Foundation Logo"/>
+                <img className="indexlogo" class="img-fluid" src="/images/SCP_Logo_4.png" alt="SCP Foundation Logo"/>
             </div>
             <h1><b>Item #:</b> {truck.Item}</h1>
             <h2><b>Object Class:</b> {truck.Class}</h2>
